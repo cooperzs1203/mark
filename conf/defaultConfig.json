@@ -1,0 +1,10 @@
+{
+  "name": "Pay",
+  "netType": "tcp",
+  "host": "0.0.0.0",
+  "port": "8888",
+  "maxConnCount": 1000,
+  "mMReqCS": 1000,
+  "mMRepCS": 1000,
+  "connRepCS": 500
+}
